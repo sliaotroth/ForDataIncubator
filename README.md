@@ -51,13 +51,14 @@ According to TripAdvisor's Honolulu page, there are 82 hotels classified in the 
 However, 2 hotels have no reviews (Hotel ranked #81, #82), 3 hotels have less than 10 reviews (Hotel ranked #74, #78, #79), and 1 is not open to the general public as it is located on an active Army base (Hotel ranked #80). These 6 hotels were excluded from the working set, leaving 76 hotels.
 
 Of the 76 hotels in the dataset, no hotel has 5 stars, about 20% have 4.5 stars, about 50% of the hotels have 4 stars, and about 18% have 3.5 stars.
-Plot at: https://github.com/sliaotroth/DataIncubator/issues/1
 
-Overall, 55 out of 76 hotels (72%) show some type of manager response to reviews within 3 pages (approximately the last 21 reviews). For hotels with reviews added consistently to the site, this encompasses approximately a 2 to 3 week period.
+Plot at: https://github.com/sliaotroth/ForDataIncubator/issues/1
+
+Overall, 55 out of 76 hotels (72%) show some type of manager response within 3 pages of the most recent review (approximately the last 21 reviews). For hotels with reviews added consistently to the site, this encompasses approximately a 2 to 3 week period.
 
 Within a Star category, the distribution of hotels with manager responses show some variance. Hotels with lower stars may or may not have manager responses. Of the hotels with 3.5 or 4.5 stars, approximately 76-79% have manager responses. Hotels with 4 stars (the largest category) have fewer with manager responses
 
-Plot at: https://github.com/sliaotroth/DataIncubator/issues/1
+Plot at: https://github.com/sliaotroth/ForDataIncubator/issues/1
 
 
 
